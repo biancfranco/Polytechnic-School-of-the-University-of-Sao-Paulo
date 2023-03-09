@@ -1,0 +1,297 @@
+Digite o nome do arquivo
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair
+Escolha uma opcao
+Hospedeiro 40
+ServidorWeb 80
+ServidorWeb 8080
+Navegador 1000
+Hospedeiro 41
+Navegador 1005
+Hospedeiro 20
+Navegador 1000
+Navegador 1005
+Hospedeiro 60
+Navegador 1234
+ServidorWeb 80
+Digite o endereco do hospedeiro
+Digite a porta do navegador
+Abrir pagina no endereco
+Porta do Servidor Web
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair
+Escolha uma opcao
+Hospedeiro 40
+ServidorWeb 80
+ServidorWeb 8080
+Navegador 1000
+Hospedeiro 41
+Navegador 1005
+Hospedeiro 20
+Navegador 1000
+Navegador 1005
+Hospedeiro 60
+Navegador 1234
+ServidorWeb 80
+Digite o endereco do hospedeiro
+Digite a porta do navegador
+Abrir pagina no endereco
+Porta do Servidor Web
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair
+Escolha uma opcao
+Hospedeiro 40
+ServidorWeb 80
+ServidorWeb 8080
+Navegador 1000
+Hospedeiro 41
+Navegador 1005
+Hospedeiro 20
+Navegador 1000
+Navegador 1005
+Hospedeiro 60 
+Navegador 1234
+ServidorWeb 80
+Digite o endereco do hospedeiro
+Digite a porta do navegador 
+Abrir pagina no endereco 
+Porta do Servidor Web 
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao
+Hospedeiro 40 
+ServidorWeb 80
+ServidorWeb 8080 
+Navegador 1000
+Hospedeiro 41 
+Navegador 1005
+Hospedeiro 20 
+Navegador 1000
+Navegador 1005
+Hospedeiro 60 
+Navegador 1234
+ServidorWeb 80
+Digite o endereco do hospedeiro
+Digite a porta do navegador 
+Abrir pagina no endereco 
+Porta do Servidor Web 
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao
+Quantidade de tempo
+Instante 1 
+Roteador 2 
+Enviado para 5
+Origem
+20
+1005, Destino 
+422
+8080, TTL
+4, GET
+Roteador 4 
+Enviado para 5
+Origem
+40
+1000, Destino 
+80
+80, TTL 
+4, GET
+Roteador 5 
+Enviado para 2
+Origem
+20
+1005, Destino 
+422
+8080, TTL
+3, GET
+Roteador 6 
+Enviado para 5
+Origem
+60
+1234, Destino 
+123
+80, TTL 
+4, GET
+Instante 2 
+Roteador 2 
+Enviado para 5
+Origem
+20
+1000, Destino 
+546
+80, TTL 
+4, GET
+Roteador 5 
+Enviado para 2
+Origem
+40
+1000, Destino 
+80
+80, TTL 
+3, GET
+Instante 3 
+Roteador 2 
+Enviado para 5
+Origem
+20
+1005, Destino 
+422
+8080, TTL
+2, GET
+Roteador 5 
+Enviado para 2
+Origem
+60
+1234, Destino 
+123
+80, TTL 
+3, GET
+Instante 4 
+Roteador 2 
+Enviado para 5
+Origem
+40
+1000, Destino 
+80
+80, TTL 
+2, GET
+Roteador 5 
+Enviado para 2
+Origem
+20
+1000, Destino 
+546
+80, TTL 
+3, GET
+Instante 5 
+Roteador 2 
+Enviado para 5
+Origem
+60
+1234, Destino 
+123
+80, TTL 
+2, GET
+Roteador 5 
+Enviado para 2
+Origem
+20
+1005, Destino 
+422
+8080, TTL
+1, GET
+Instante 6 
+Roteador 2 
+Enviado para 5
+Origem
+20
+1000, Destino 
+546
+80, TTL 
+2, GET
+Roteador 5 
+Enviado para 2
+Origem
+40
+1000, Destino 
+80
+80, TTL 
+1, GET
+Instante 7 
+Roteador 2 
+Destruido por TTL
+Origem
+20
+1005, Destino 
+422
+8080, TTL
+0, GET
+Roteador 5 
+Enviado para 2
+Origem
+60
+1234, Destino 
+123
+80, TTL 
+1, GET
+Instante 8 
+Roteador 2 
+Destruido por TTL
+Origem
+40
+1000, Destino 
+80
+80, TTL 
+0, GET
+Roteador 5 
+Enviado para 2
+Origem
+20
+1000, Destino 
+546
+80, TTL 
+1, GET
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao
+Quantidade de tempo
+Instante 1 
+Roteador 2 
+Destruido por TTL
+Origem
+60
+1234, Destino 
+123
+80, TTL 
+0, GET
+Instante 2 
+Roteador 2 
+Destruido por TTL
+Origem
+20
+1000, Destino 
+546
+80, TTL 
+0, GET
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao
+TTL atual
+5 
+Novo TTL
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao
+Quantidade de tempo
+Instante 1 
+Instante 2 
+Simulador de Rede
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair 
+Escolha uma opcao

@@ -1,0 +1,25 @@
+Digite o nome do arquivo: 
+Simulador de Rede
+---
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair
+Escolha uma opcao: 
+Quantidade de tempo: 
+Instante 1
+---
+
+Instante 2
+---
+
+Instante 3
+---
+
+Simulador de Rede
+---
+1) Usar um navegador
+2) Passar tempo
+3) Alterar TTL
+4) Sair
+Escolha uma opcao: 
